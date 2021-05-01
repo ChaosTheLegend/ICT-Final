@@ -1,0 +1,10 @@
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\bin\Debug\PhonrBook.exe.config
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\bin\Debug\PhonrBook.exe
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\bin\Debug\PhonrBook.pdb
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.csprojAssemblyReference.cache
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.Properties.Resources.resources
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.csproj.GenerateResource.cache
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.csproj.CoreCompileInputs.cache
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.exe
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.pdb
+C:\Users\chaos\Documents\Jetbrains workspaces\C#\PhonrBook\PhonrBook\obj\Debug\PhonrBook.Form1.resources
